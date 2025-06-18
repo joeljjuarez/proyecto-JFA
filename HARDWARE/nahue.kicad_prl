@@ -13,7 +13,7 @@
       "shapes": 1.0,
       "tracks": 1.0,
       "vias": 1.0,
-      "zones": 0.6200000047683716
+      "zones": 0.6700000166893005
     },
     "selection_filter": {
       "dimensions": true,
@@ -31,6 +31,7 @@
     "visible_items": [
       "vias",
       "footprint_text",
+      "footprint_anchors",
       "ratsnest",
       "grid",
       "footprints_front",
@@ -39,15 +40,20 @@
       "footprint_references",
       "tracks",
       "drc_errors",
+      "drawing_sheet",
       "bitmaps",
       "pads",
       "zones",
+      "drc_warnings",
+      "drc_exclusions",
+      "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_ffffffff_ffffffff",
+    "visible_layers": "00000000_00000000_55555555_57555555",
     "zone_display_mode": 0
   },
   "git": {
+    "repo_password": "",
     "repo_type": "",
     "repo_username": "",
     "ssh_key": ""
